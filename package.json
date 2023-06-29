@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.38"
+  },
+  "name": "deployment",
+  "description": "NA",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AakashDesai3105/Deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AakashDesai3105/Deployment/issues"
+  },
+  "homepage": "https://github.com/AakashDesai3105/Deployment#readme"
+}
